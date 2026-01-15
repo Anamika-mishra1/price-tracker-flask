@@ -3,7 +3,7 @@
 Full-stack Flask web app tracking Amazon/Flipkart prices.
 
 ## 🚀 Live Demo
-http://localhost:5000 (local) | Render.com (coming soon)
+http://localhost:5000 (local) |
 
 ## 🛠️ Tech Stack
 - Flask (Python backend)
